@@ -30,7 +30,7 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
   </h3>
 </div>
 <div align="center">
-	<h1>Trading using Options <br/>Sentiment Indicators </h1>
+	<h1>Trading using Options Sentiment Indicators </h1>
 </div>
 
 ### Made on Python version 2.7
@@ -60,7 +60,7 @@ This course will help you to understand the two major emotions that drive the en
 
 Want to know more? Check out the course [here](https://quantra.quantinsti.com/course/trading-using-options-sentiment-indicators).
 
-## Section 1
+## Section 2
 
 ### **Breadth Measures**
 
@@ -78,7 +78,7 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_n
 **Generating Buy Signals:**
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=2&unit_no=14) where you will learn to check the condition for opening a Buy position when the upper Bollinger band is crossed and assign an appropriate value to the variable ‘flag’.
 
-## Section 2
+## Section 3
 
 ### **Option Trading Measures**
 
