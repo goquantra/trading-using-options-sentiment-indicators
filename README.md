@@ -1,7 +1,7 @@
 <img align="left" width="150" src="https://quantra.quantinsti.com/images/img_logo.svg">
 
 Learn A to Z of Algorithmic and Quantitative Trading
-Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmic & Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.
+Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.
 
 <br>
 <br>
@@ -69,7 +69,7 @@ Want to know more? Check out the course [here](https://quantra.quantinsti.com/co
 **The folder contains the following topics:**
 
 **Fetching data:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=2&unit_no=11) where you will learn how to fetch data for S&P 500 futures contracts, advancing stocks and declining stocks on NYSE from Quandl.
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=2&unit_no=11) where you will learn how to fetch data for S&amp;P 500 futures contracts, advancing stocks and declining stocks on NYSE from Quandl.
 
 **Defining Bollinger Bands:**
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=2&unit_no=12) where you will learn to define the upper and lower Bollinger bands.
@@ -107,13 +107,13 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_n
 ### ****Volatility Measures****
 
 **Generating a buy order:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=11) where you will learn how to generate an order to buy S&P 500 futures contracts , if the value of VIX exceeds the threshold value (i.e. thresh = 22).
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=11) where you will learn how to generate an order to buy S&P 500 futures contracts, if the value of VIX exceeds the threshold value (i.e. thresh = 22).
 
 **Closing an open Buy position - 1:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=12) where you will learn to check if the value of VIX exceeds the threshold value (i.e. thresh = 22); we will buy S&P 500 futures. In this exercise, if the S&P 500 futures contract value is trading 5% above its bought price, we will sell the contract and book a profit. We will then update the required fields and flags to avoid conflicts in our codes.
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=12) where you will learn to check if the value of VIX exceeds the threshold value (i.e. thresh = 22); we will buy S&amp;P 500 futures. In this exercise, if the S&amp;P 500 futures contract value is trading 5% above its bought price, we will sell the contract and book a profit. We will then update the required fields and flags to avoid conflicts in our codes.
 
 **Closing an open Buy position - 2:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=13) where you will learn to check if the value of VIX exceeds the threshold value (i.e. thresh = 22); then we will buy S&P 500 futures. If the S&P 500 futures value is 5% above its bought price, we will sell the futures contract and book a profit. In this exercise, if the S&P 500 futures value is 5% below its bought price, we will sell the futures contract and book a loss (our stoploss condition). We will then update the required fields and flags to avoid conflicts in our codes.
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=13) where you will learn to check if the value of VIX exceeds the threshold value (i.e. thresh = 22); then we will buy S&amp;P 500 futures. If the S&amp;P 500 futures value is 5% above its bought price, we will sell the futures contract and book a profit. In this exercise, if the S&amp;P 500 futures value is 5% below its bought price, we will sell the futures contract and book a loss (our stoploss condition). We will then update the required fields and flags to avoid conflicts in our codes.
 
 **Appending trade data:**
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=14) where you will learn to use the append() method. The append() method adds a single item to an existing list. It does not return a new list, but it rather modifies the original list. We will modify the ‘stoploss' and ‘mtm’ list in this exercise.
