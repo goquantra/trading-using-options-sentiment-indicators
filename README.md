@@ -30,8 +30,10 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
   </h3>
 </div>
 <div align="center">
-	<h1>Trading using Options Sentiment Indicators </h1>
+  <h1>Trading using Options Sentiment Indicators </h1>
 </div>
+
+<br>
 
 ### Made on Python version 2.7
 
