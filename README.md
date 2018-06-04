@@ -1,9 +1,8 @@
-<img align="left" width="150" src="https://quantra.quantinsti.com/images/img_logo.svg">
-
-Learn A to Z of Algorithmic and Quantitative Trading
-Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.
-
-<br>
+<p align="center">
+  <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
+</p>
+<p align="center">Learn A to Z of Algorithmic and Quantitative Trading</p>
+<p align="center">Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.</p>
 <br>
 
 <div align="center">
@@ -33,7 +32,6 @@ Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> th
   <h1>Trading using Options Sentiment Indicators </h1>
 </div>
 
-<br>
 
 ### Made on Python version 2.7
 
@@ -107,7 +105,7 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_n
 ### ****Volatility Measures****
 
 **Generating a buy order:**
-An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=11) where you will learn how to generate an order to buy S&P 500 futures contracts, if the value of VIX exceeds the threshold value (i.e. thresh = 22).
+An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=11) where you will learn how to generate an order to buy S&amp;P 500 futures contracts, if the value of VIX exceeds the threshold value (i.e. thresh = 22).
 
 **Closing an open Buy position - 1:**
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=4&unit_no=12) where you will learn to check if the value of VIX exceeds the threshold value (i.e. thresh = 22); we will buy S&amp;P 500 futures. In this exercise, if the S&amp;P 500 futures contract value is trading 5% above its bought price, we will sell the contract and book a profit. We will then update the required fields and flags to avoid conflicts in our codes.
