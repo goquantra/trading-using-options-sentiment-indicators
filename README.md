@@ -107,7 +107,7 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_n
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=3&unit_no=17) where you will learn to place a sell order to close the open buy position.
 
 
-### Volatility Measures
+## Volatility Measures
 [(Back to top)](#table-of-contents)
 
 
