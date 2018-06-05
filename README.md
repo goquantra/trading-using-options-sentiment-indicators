@@ -91,7 +91,6 @@ An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_n
 The folder contains the following topics:
 
 **Generating a Sell Signal:**
-
 An [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=39&section_no=3&unit_no=13) where you will learn how to place a 'SELL' order if PCR crosses below the lower Bollinger band since it is a sign of an overbought market. We will take a contrarian position amid this bullish sentiment.
 
 **Closing an open sell position 1:**
