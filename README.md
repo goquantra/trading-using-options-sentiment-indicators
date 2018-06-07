@@ -30,11 +30,12 @@
   </h3>
 </div>
 <div align="center">
-  <h1>Trading using Options Sentiment Indicators </h1>
+  <img align="center" src="https://user-images.githubusercontent.com/16116886/41084441-d6b2d30c-6a51-11e8-8b5e-24cd923592c1.png">
 </div>
 
+<br/>
 
- > Made on Python version 2.7
+> Made on Python version 2.7
 
 ### Table of contents
  -   [About the course](#about-the-course)
